@@ -1,0 +1,5 @@
+TABLOU MonaLisa 2000 12 ulei
+SCULPTURA Ganditorul 2007 245 piatra
+TABLOU Triptych 2006 18 ulei
+TABLOU SoriaMoria 1787 174 ulei
+TABLOU Pieta 1600 13 ulei
